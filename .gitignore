@@ -1,0 +1,10 @@
+# Linux/Unix
+*~
+.*.swp
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+target/
